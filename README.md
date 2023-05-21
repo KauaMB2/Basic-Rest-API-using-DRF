@@ -27,4 +27,3 @@ Create a admin:
 
 Run a Django project:
 ```python manage.py runserver```
-
